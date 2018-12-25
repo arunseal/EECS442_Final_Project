@@ -1,0 +1,1 @@
+python3 surfaceNet/hourglass_test.py --gpu 1 --outputName H1_I32_E10 --numEpochs 10 --learn 0.0003 --dataPath ../data --numFilters 10 --batchSize 25 --increase 32 --hourglassSteps 4

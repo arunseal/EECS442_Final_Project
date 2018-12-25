@@ -1,0 +1,9 @@
+*.png
+*.zip
+test/*
+train/*
+data/*
+*.pyc
+surfaceNet/__pycache__/*
+
+
